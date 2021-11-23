@@ -1,0 +1,14 @@
+.main-title {
+  text-align: center;
+}
+.trips-title {
+  margin-top: 10%;
+}
+.no-trips-title {
+  text-align: center;
+}
+.trip-cards {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
